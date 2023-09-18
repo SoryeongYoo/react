@@ -1,10 +1,15 @@
 {
   "files": {
-    "main.js": "/react/static/js/main.9d7f0c78.js",
+    "main.css": "/react/static/css/main.f3148804.css",
+    "main.js": "/react/static/js/main.7ab230b4.js",
+    "static/media/ZillaSlab-Light.ttf": "/react/static/media/ZillaSlab-Light.b5dfe3c42bad913f8a56.ttf",
+    "static/media/CrimsonText-Bold.ttf": "/react/static/media/CrimsonText-Bold.22c807fdbe784a0ec91a.ttf",
     "index.html": "/react/index.html",
-    "main.9d7f0c78.js.map": "/react/static/js/main.9d7f0c78.js.map"
+    "main.f3148804.css.map": "/react/static/css/main.f3148804.css.map",
+    "main.7ab230b4.js.map": "/react/static/js/main.7ab230b4.js.map"
   },
   "entrypoints": [
-    "static/js/main.9d7f0c78.js"
+    "static/css/main.f3148804.css",
+    "static/js/main.7ab230b4.js"
   ]
 }
