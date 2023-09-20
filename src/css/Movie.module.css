@@ -1,0 +1,25 @@
+.card{
+    background-color: whitesmoke;
+    border-radius: 1rem;
+    color: gray;
+    height: 28rem;
+}
+
+img{
+    width: 23rem;
+    height: 20rem;
+    border-radius: 1rem;
+}
+
+.h2{
+    text-align: center;
+}
+
+.p{
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    overflow: hidden;
+    white-space:nowrap;
+    text-overflow: ellipsis;
+    text-align: justify;
+}

@@ -1,0 +1,21 @@
+@font-face{
+    font-family: 'Crimson';
+    src: url('/src/font/CrimsonText-Bold.ttf') format('truetype');
+}
+
+.title{
+    font-family: 'Crimson';
+}
+
+@font-face{
+    font-family: 'Zillaslab';
+    src: url('/src/font/ZillaSlab-Light.ttf') format('truetype');
+}
+
+.container{
+    color:white;
+}
+.load{
+    font-family: 'Zillaslab';
+    color: white;
+}
